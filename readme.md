@@ -1,12 +1,12 @@
-### - crear entorno:
+### Crear entorno:
     python -m venv venv
-### - activar entorno:
+### Activar entorno:
     .\venv\Scripts\activate
-### - detener entorno:
+### Detener entorno:
     deactivate
 
-### instalar dependencias:
+### Instalar dependencias:
     pip install -r requirements.txt
 
-### ejecutar aplicación:
+### Ejecutar aplicación:
     python app.py
